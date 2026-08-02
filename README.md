@@ -24,8 +24,6 @@ The Chiropractic Practice Price Comparison and Deal Finder Chrome Extension is t
 
 Upgrade to the Pro version for **$29.99** and unlock all premium features.
 
-**[Buy on Gumroad](https://propathacademy.gumroad.com/l/qzkfbh)** — Instant download, lifetime updates
-
 **[Buy Now (Stripe)](https://buy.stripe.com/cNi00j3aL9Mw09a0VecZp2Z)** — Secure checkout
 
 ## Installation
@@ -37,7 +35,6 @@ Upgrade to the Pro version for **$29.99** and unlock all premium features.
 ## Support
 
 - Open an [issue](../../issues) for bug reports
-- Pro customers get priority support via the [purchase platform](https://propathacademy.gumroad.com/l/qzkfbh)
 
 ## License
 
